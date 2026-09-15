@@ -1,0 +1,7 @@
+retrained_model/
+results/
+*.safetensors
+*.bin
+*.pt
+__pycache__/
+.pytest_cache/

@@ -1,0 +1,11 @@
+timestamp,text,prediction,confidence,latency_ms
+2026-09-15 03:33:31,I absolute love this new MLOps pipeline! Works great.,POSITIVE,0.9892,311.22
+2026-09-15 03:33:31,"The system works as expected, nothing special.",NEUTRAL,0.6419,155.5
+2026-09-15 03:33:31,This is worst performance I have ever seen.,NEGATIVE,0.9518,196.07
+2026-09-15 03:33:31,Pretty good results overall.,POSITIVE,0.9695,211.88
+2026-09-15 03:33:31,The application crashed twice today.,NEGATIVE,0.874,153.58
+2026-09-15 03:33:31,I am neutral about this update.,NEGATIVE,0.5871,246.93
+2026-09-15 03:33:32,Awesome feature! High accuracy.,POSITIVE,0.9846,171.53
+2026-09-15 03:33:32,Extremely slow response time.,NEGATIVE,0.9209,168.0
+2026-09-15 03:33:32,Just testing the logging system.,NEUTRAL,0.8729,228.16
+2026-09-15 03:33:32,Fantastic model deployment!,POSITIVE,0.98,174.79
